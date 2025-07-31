@@ -3,15 +3,11 @@ HR Analytics, also known as People Analytics, is the practice of collecting, ana
 
 Using tools like Python, Pandas, Excel, Power BI, and SQL, this repository explores:
 
-📈 Attrition Analysis: Identifying patterns and reasons for employee turnover
-
-🧑‍💼 Recruitment Metrics: Evaluating hiring effectiveness, time-to-fill, and cost-per-hire
-
-🔍 Employee Performance: Analyzing appraisal data and KPIs
-
-📅 Workforce Planning: Forecasting future HR needs based on trends and capacity planning
-
-📊 Dashboards & Visualizations: Interactive reports for HR decision-makers
+Attrition Analysis: Identifying patterns and reasons for employee turnover
+Recruitment Metrics: Evaluating hiring effectiveness, time-to-fill, and cost-per-hire
+Employee Performance: Analyzing appraisal data and KPIs
+Workforce Planning: Forecasting future HR needs based on trends and capacity planning
+Dashboards & Visualizations: Interactive reports for HR decision-makers
 
 The goal of this project is to transform raw HR data into actionable insights that support strategic HR initiatives and improve workforce outcomes.
 
